@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: hello-world
+  repository: muhammadfasil/test123:latest
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
